@@ -19,5 +19,5 @@ public class Config {
     //随机数据长度
     public static  int TEXT_LENGTH=4;
     //设置验证码字体大小
-    public static int TEXT_SIZE=30;
+    public static int TEXT_SIZE=60;
 }
